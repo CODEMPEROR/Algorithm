@@ -26,7 +26,7 @@ public class T {
 
     private TreeNode doIt(TreeNode root, int[] nums, int left, int right) {
 
-        if (left > right){
+        if (left > right) {
             return null;
         }
 
